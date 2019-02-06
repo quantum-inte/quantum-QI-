@@ -9,8 +9,8 @@ Know the characteristics of the currency Quantum Intelligence
 - Hybrid POS
 - Quantum cryptography QKD
 - Quantum cryptography QKD
-Benefits
-See the benefits of using Quantum Intelligence
+
+Benefits     See the benefits of using Quantum Intelligence
 
 - Safety
 - Security
