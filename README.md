@@ -1,4 +1,4 @@
-# Quantum Intelligence-QI-
+# Quantum Intelligence-QI
 Open-source, point-to-point, developed with the scrypt algorithm in  hybrid format and with quantum cryptography 
 Features
 Know the characteristics of the currency Quantum Intelligence
@@ -12,4 +12,3 @@ Know the characteristics of the currency Quantum Intelligence
 - Transparency
 - Fairness
 - Decentralized
-- Anonymous
